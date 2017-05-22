@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-Nov-2016, 21:20:40
+    Author     : dmuthami
+*/
+
+.custom-intialBaseTime { 
+    /*width: 60px;*/ 
+}   
+
+.custom-model { 
+    /*width: 130px; */
+}   
+
+.custom-skillMeasure { 
+    /*width: 200px; */
+}  
+
+.custom-leadTime { 
+    /*width: 120px; */
+}   
+
+.custom-time { 
+    /**/width: 120px; 
+}   
+.custom-plot { 
+    /**/padding-top: 20px;
+}   
+
+.custom-skillMeasureLabel { 
+    /**/width: 100px; 
+}
+
+.custom-periodYear { 
+    /**/padding-left: 1px; 
+}
+
+#idYear{
+    padding-left: 25px; 
+}
+
+#idPeriodControls{
+    padding-top: 6px; 
+}
+
+.custom-header{
+    /*
+    Original replaced below
+    font-family: Open Sans, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 2px;
+    */
+
+    font-family: Open Sans,sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 14px;
+    /*text-transform: uppercase;*/
+
+
+}
+
+.custom-product-header{
+    padding-top: 15px; 
+
+}
+
+img {
+    /*max-width: 512px;
+    height: auto;  
+    */
+    max-height: 512px;
+    width: auto;      
+}
+.imageCaptionDiv{
+    margin-top: 5px;
+}
+.custom-col-xs-3{width: 35% }
+
+.custom-padding{padding-left: 25px}
+/*#idParameterDiv{width: 120px}*/
